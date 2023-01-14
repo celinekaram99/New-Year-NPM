@@ -1,0 +1,20 @@
+{
+  "name": "new_year",
+  "version": "1.0.4",
+  "description": "This package gives us the day and month until New Year Eve and shows us the word \"happy holiday\" in many languages, and shows us some ASCII art about the New Year ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "new",
+    "year",
+    "happy holiday languages",
+    "ASCII Art for NewYear"
+  ],
+  "author": "Celine Karam and Marah Habashy",
+  "license": "ISC",
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
