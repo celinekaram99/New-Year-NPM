@@ -38,6 +38,7 @@ const ny = require('new_year');
 ### 1. **Function 1: ASCII New Year Draw:**
 <br> 
 The tool has the following options:
+
 - `newyear` to draw a new year 2023 message
 - `new year1` to draw a happy new year message
 
