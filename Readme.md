@@ -35,19 +35,20 @@ npm i new_year
 const ny = require('new_year');
 
 ```
-1. **Function 1: ASCII New Year Draw:**
+### 1. **Function 1: ASCII New Year Draw:**
+<br> 
 The tool has the following options:
 - `newyear` to draw a new year 2023 message
 - `new year1` to draw a happy new year message
 
 ## Output:
-"newyear":
+### "newyear":
 ![newyear](https://github.com/celinekaram99/New-Year-NPM/blob/main/newyear.jpg?raw=true)
-"newyear1":
+### "newyear1":
 ![newyear1](https://github.com/celinekaram99/New-Year-NPM/blob/main/newyear1.jpg?raw=true)
 
 
-2. **Function 2: Happy Holiday Dictionary:**
+### 2. **Function 2: Happy Holiday Dictionary:**
 To use the Happy Holiday Dictionary, run: languages("Korean") 
 This node takes a dictionary/JSON and shows us the word "Happy Holiday" in the selected languages.
 
@@ -70,7 +71,7 @@ we have a list of languages the output is a happy holiday in the selected langua
 the output in "Korean" is 행복 휴일\
 If you choose a language that is not on the list, it will return: we don't recognize this word.
 
-3. **Function 3: New Year Countdown:**
+### 3. **Function 3: New Year Countdown:**
 The countdown timer displays the remaining time until New Year's Eve.
 ## Input:
 ```bash
